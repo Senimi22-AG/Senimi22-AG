@@ -13,7 +13,6 @@ Mình hiện là sinh viên ngành **Công nghệ Thông tin** tại **[Greenwic
 ---
 
 ### 🛠️ Ngôn ngữ & Công nghệ sử dụng
-*(Bạn có thể xóa bớt những mục chưa học hoặc thêm mục mới)*
 
 - **Ngôn ngữ lập trình:** C/C++, Python, Java, JavaScript, HTML/CSS
 - **Cơ sở dữ liệu:** MySQL, PostgreSQL, SQL Server
