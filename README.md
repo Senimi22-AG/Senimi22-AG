@@ -1,16 +1,23 @@
-## Hi there 👋
+# Xin chào, mình là Nguyễn Thanh Sang👋
 
-<!--
-**Senimi22-AG/Senimi22-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình hiện là sinh viên ngành **Công nghệ Thông tin** tại **[Greenwich university]**. Mình yêu thích việc xây dựng các ứng dụng phần mềm thực tế và không ngừng học hỏi các công nghệ mới.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Về bản thân mình
+- 🎓 **Học vấn:** Sinh viên năm [số năm, VD: 2] chuyên ngành IT .
+- 🌱 **Đang học & Tìm hiểu:** Cấu trúc dữ liệu & Giải thuật, Web Fullstack, Git/GitHub.
+- 🎯 **Mục tiêu sắp tới:** Hoàn thiện các dự án cá nhân thực tế và tìm kiếm cơ hội thực tập vị trí **[VD: Backend / Frontend / Software Engineer Intern]**.
+- 📫 **Liên hệ với mình qua:].
+
+---
+
+### 🛠️ Ngôn ngữ & Công nghệ sử dụng
+*(Bạn có thể xóa bớt những mục chưa học hoặc thêm mục mới)*
+
+- **Ngôn ngữ lập trình:** C/C++, Python, Java, JavaScript, HTML/CSS
+- **Cơ sở dữ liệu:** MySQL, PostgreSQL, SQL Server
+- **Công cụ & Nền tảng:** Git, GitHub, VS Code, Docker
+
+---
+
